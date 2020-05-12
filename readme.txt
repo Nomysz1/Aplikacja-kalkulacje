@@ -1,0 +1,1 @@
+Aplikacja przeznaczona jest dla dedykowanego szablonu generowanego z HIS/ESKULAP o zdefiniowanych kolumnach. Szablon załączony pod nazwą template
